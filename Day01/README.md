@@ -30,10 +30,10 @@ DevOps is a **culture and set of practices** that enhance application delivery b
 * Lengthy release cycles
 * Automation was non-existent
 
-✨ DevOps addresses these concerns and provides better automation for faster, dependable, and scalable delivery.
+ DevOps addresses these concerns and provides better automation for faster, dependable, and scalable delivery.
 
 ---
 
-## 📌 3. How to Introduce Yourself (as a Fresher)
+##  3. How to Introduce Yourself (as a Fresher)
 
-👉 “As a new graduate, I am deeply interested in DevOps and wish to delve into the areas of automation, cloud, and modern so
+ “As a new graduate, I am deeply interested in DevOps and wish to delve into the areas of automation, cloud, and modern so
