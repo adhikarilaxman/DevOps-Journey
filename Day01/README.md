@@ -19,7 +19,7 @@ DevOps is a **culture and set of practices** that enhance application delivery b
 
 ## 2. Why DevOps?
 
-🔹 More than a decade ago, DevOps engineers did not exist. The entire process of application delivery was **manual** and was catered to by:
+ More than a decade ago, DevOps engineers did not exist. The entire process of application delivery was **manual** and was catered to by:
 
 * System Administrators
 * Build & Release Engineers
