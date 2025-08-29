@@ -7,7 +7,7 @@ This repository contains my notes and understanding of **DevOps concepts**.
 
 ## 1. What is DevOps?
 
-DevOps is a **culture and set of practices** that improve application delivery by ensuring:
+DevOps is a **process of improving ** the application delivery by ensuring:
 
 * Automation
 * Quality
