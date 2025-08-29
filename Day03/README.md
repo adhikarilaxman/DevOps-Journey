@@ -6,6 +6,7 @@ This repository contains my notes and understanding of **DevOps concepts**.
 ### Server
 
 **What is a Server?**
+
 --> A server is a computer or a software program on a network that provides resources, data, or services to other computers or users.
 
 ---
@@ -13,9 +14,11 @@ This repository contains my notes and understanding of **DevOps concepts**.
 ### Virtual Machines
 
 **What is a Virtual Machine?**
+
 --> A virtual machine is a compute resource that uses software instead of a physical computer.
 
 **What is the use of Virtual Machines?**
+
 --> To run programs and deploy apps.
 Examples:
 
@@ -28,5 +31,6 @@ Examples:
 ### Hypervisor
 
 **What is a Hypervisor?**
+
 --> A hypervisor is software that we can use to run multiple virtual machines on a single physical machine.
 
