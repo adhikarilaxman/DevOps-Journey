@@ -24,10 +24,15 @@ If we want to make 10 Virtual Machines in AWS, we would have to create them manu
 
 
 **Step 1:** Login and navigate to the EC2 Dashboard
+
 **Step 2:** Launch a new instance
+
 **Step 3:** Choose Amazon Machine Image (usually Ubuntu)
+
 **Step 4:** Select instance type (Free tier eligible)
+
 **Step 5:** Configure key pair
+
 **Step 6:** Review and launch
 
 ---
