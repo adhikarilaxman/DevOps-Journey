@@ -6,7 +6,7 @@ This repository contains my notes and understanding of **DevOps concepts**.
 ---
 Linux Operating System & Basic of Shell Scripting
 --> Operating System is a core computer program that acts as an bridge between an software and hardware/
-![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/b0010568f7c0d175b3012a1e6618d4b49947863d/Day02/Phases.png)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/68097f89a505e1ac0946cf2161640b9e4d26b7ee/Day06/OS%20Day06.png)
 
 Why Linux?
 1. Free & Open Source
@@ -15,7 +15,7 @@ Why Linux?
 4. Fast
 
 Architecture of Linux Operating System
-![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/b0010568f7c0d175b3012a1e6618d4b49947863d/Day02/Phases.png)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/68097f89a505e1ac0946cf2161640b9e4d26b7ee/Day06/Architecture%20Of%20Linus%20OS%20Day06.png)
 Kernel
 --> The Kernel is the core component of an Operating System.
 --> The responsibility of kernel is to establish a communication between Hardware and Software.
