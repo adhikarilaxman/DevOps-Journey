@@ -1,82 +1,110 @@
----
 # DevOps Basics – My Learning Journey
 
 This repository contains my notes and understanding of **DevOps concepts**.
 
 ---
+### Shell Scripting 01
 
-Shell Scripting 01
+**What is the purpose of scripting and automation?**
+\--> Scripting and automation are fundamentals in IT, DevOps, Software Development, and System Administration. Their purpose is to save time, reduce errors, and improve efficiency by automating manual or repetitive tasks.
 
-What is the purpose of scripting and automation?
---> Scripting and automation are fundamentals in IT, DevOps, Software Devlopment and system adminstration. Their purpose is to save time, reduce errors, and improve efficency by automating manual or repetitve task.
+---
 
-Example of Use Cases
+### Example of Use Cases
 
-Task                                      Scripted Automation
-----------------------------------------------------------------------------------------------------
-1. Server setup                          install software, configure service, open firewall ports.
-2. Deployment                            Build code, run test to staging/production.
-3. Monitoring                            Health checks for services, disk space alerts.
+| Task         | Scripted Automation Example                               |
+| ------------ | --------------------------------------------------------- |
+| Server Setup | Install software, configure services, open firewall ports |
+| Deployment   | Build code, run tests, deploy to staging/production       |
+| Monitoring   | Health checks for services, disk space alerts             |
 
+---
 
-What is the purpose of #!/bin/bash or #!bin/sh?
---> The line is called "Shebang", and it tells the system which interpreter to use when executing a script.
+### What is the purpose of `#!/bin/bash` or `#!/bin/sh`?
 
-:q, :wq!
+\--> This line is called a **Shebang**, and it tells the system which interpreter to use when executing a script.
 
--! --> puts you into command mode.
--w --> stands for write(save).
--q --> stands for quit (exit the editor).
--! --> means force.
+---
 
-First Shell Script 
---> #!/bin/bash
-    echo "My name is Laxman Adhikari"
+### vi Editor Commands
 
-How to Run Shell Script files?
-1. sh filename.sh
-2. ./filename.sh
+* `:q` → Quit (exit the editor)
+* `:wq!` → Save and quit (force if needed)
 
-Sh
---> Runs the script using sh shell no matter what's written at the top.
---> Doesn't need permission to run.
+---
 
-./
---> Runs the script directly.
---> Uses the shell written at the top of the script (like #!/bin/bash).
---> Need permission to run (chmod +x filename.sh).
+### First Shell Script
 
-About Chmod Command
+```bash
+#!/bin/bash
+echo "My name is Laxman Adhikari"
+```
 
---> Chmod --> Grant Permission.
---> ch -->Change
+---
 
+### How to Run Shell Script Files?
 
-chmod -- 1. Which user
-         2. Which Group
-         3. What are your permission
+1. `sh filename.sh`
 
-    7 --> 4 --> Read
-          2 --> Write
-          1 --> Execute
-Simple Shell Script to Create a folder & Create two files.
+   * Runs the script using `sh` shell no matter what’s written at the top.
+   * Doesn’t need permission to run.
 
-#!bin/bash
+2. `./filename.sh`
 
-#create a folder
+   * Runs the script directly.
+   * Uses the shell written at the top of the script (like `#!/bin/bash`).
+   * Needs execution permission (`chmod +x filename.sh`).
+
+---
+
+### About chmod Command
+
+* `chmod` → Grant permissions
+* `ch` → Change
+
+**chmod format**:
+
+1. Which user
+2. Which group
+3. What permissions
+
+**Permission values:**
+
+* 4 → Read
+* 2 → Write
+* 1 → Execute
+
+Example:
+
+* `7` = 4 (read) + 2 (write) + 1 (execute)
+
+---
+
+### Simple Shell Script to Create a Folder & Two Files
+
+```bash
+#!/bin/bash
+
+# create a folder
 mkdir laxman
 
-#create two files 
+# create two files
 cd laxman
 touch firstfile secondfile
+```
 
+---
 
-![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/b0010568f7c0d175b3012a1e6618d4b49947863d/Day02/Phases.png)
+### Screenshots
 
-![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/b0010568f7c0d175b3012a1e6618d4b49947863d/Day02/Phases.png)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/e52a7b916f0753e8da3a9bb90cf9681738b6f6d1/Day07/First%20Shell%20Script.png)
 
-![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/b0010568f7c0d175b3012a1e6618d4b49947863d/Day02/Phases.png)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/e52a7b916f0753e8da3a9bb90cf9681738b6f6d1/Day07/First%20Shell%20Script%2002.png)
 
-![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/b0010568f7c0d175b3012a1e6618d4b49947863d/Day02/Phases.png)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/e52a7b916f0753e8da3a9bb90cf9681738b6f6d1/Day07/Second%20Shell%20Script.png)
 
-![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/b0010568f7c0d175b3012a1e6618d4b49947863d/Day02/Phases.png)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/e52a7b916f0753e8da3a9bb90cf9681738b6f6d1/Day07/Second%20Shell%20Script%2001.png)
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/e52a7b916f0753e8da3a9bb90cf9681738b6f6d1/Day07/Second%20Shell%20Script%2002.png)
+
+---
