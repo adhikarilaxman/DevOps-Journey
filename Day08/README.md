@@ -162,8 +162,21 @@ Tom   28  Manager
 
 * `sudo su -` → Switch to root user.
 * `find` → Search for files and folders in a directory (and subdirectories).
-
-  * Can search by **name, type, size, or date**.
+* Can search by **name, type, size, or date**.
 * `trap` → Catch signals (e.g., script exit, `Ctrl+C`) and run custom commands.
+
+
+
+### Screenshots
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/0b0b46fc92e56d1100e6459498bdcad70a2451a5/Day08/Shell%20Script%2001%20Day08.png)
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/0b0b46fc92e56d1100e6459498bdcad70a2451a5/Day08/Shell%20Script%2002%20Day08.png)
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/0b0b46fc92e56d1100e6459498bdcad70a2451a5/Day08/Shell%20Script%2003%20Day08.png)
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/0b0b46fc92e56d1100e6459498bdcad70a2451a5/Day08/Shell%20Script%2004%20ifelse%20Day08.png)
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/0b0b46fc92e56d1100e6459498bdcad70a2451a5/Day08/Shell%20Script%2005%20ifelse%20Day08.png)
 
 ---
