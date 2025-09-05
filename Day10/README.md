@@ -70,4 +70,16 @@ It’s super useful in DevOps, especially when working with Kubernetes manifests
 aws ec2 describe-instances | jq '.Reservations[].Instances[].InstanceId'
 ```
 
+### Screenshots
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/59d90fa37c2fa4080e1e762f797bba8695bfe1a1/Day10/Day10%2001.png)
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/59d90fa37c2fa4080e1e762f797bba8695bfe1a1/Day10/Day10%2002.png)
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/59d90fa37c2fa4080e1e762f797bba8695bfe1a1/Day10/Day10%2003.png)
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/59d90fa37c2fa4080e1e762f797bba8695bfe1a1/Day10/Day10%2004.png)
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/59d90fa37c2fa4080e1e762f797bba8695bfe1a1/Day10/Day10%2005.png)
+
 ---
