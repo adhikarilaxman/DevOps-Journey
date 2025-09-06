@@ -89,9 +89,9 @@ list_users_with_read_access
 
 ### Screenshots
 
-![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/59d90fa37c2fa4080e1e762f797bba8695bfe1a1/Day10/Day10%2001.png)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/b894e6851db2394152204369c39550d288be9843/Day11/Day11%2001.png)
 
-![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/59d90fa37c2fa4080e1e762f797bba8695bfe1a1/Day10/Day10%2002.png)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/b894e6851db2394152204369c39550d288be9843/Day11/Day11%2002.png)
 
 ![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/59d90fa37c2fa4080e1e762f797bba8695bfe1a1/Day10/Day10%2003.png)
 
