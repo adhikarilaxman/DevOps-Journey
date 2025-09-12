@@ -51,11 +51,22 @@ npm run start
 
 ## Screenshots
 
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/adafcfbf1c8012d9e10df93341e38e828adc2d58/Day16/Day16%2001.png)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/adafcfbf1c8012d9e10df93341e38e828adc2d58/Day16/Day16%2002.png)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/adafcfbf1c8012d9e10df93341e38e828adc2d58/Day16/Day16%2003.png)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/adafcfbf1c8012d9e10df93341e38e828adc2d58/Day16/Day16%2004.png)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/adafcfbf1c8012d9e10df93341e38e828adc2d58/Day16/Day16%2005%20install%20git.png)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/adafcfbf1c8012d9e10df93341e38e828adc2d58/Day16/Day16%2006%20git%20clone%20the%20repo.png)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/adafcfbf1c8012d9e10df93341e38e828adc2d58/Day16/Day16%2007%20install%20nodejs.png)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/adafcfbf1c8012d9e10df93341e38e828adc2d58/Day16/Day16%2008.png)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/adafcfbf1c8012d9e10df93341e38e828adc2d58/Day16/Day16%2009%20npm%20install.png)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/adafcfbf1c8012d9e10df93341e38e828adc2d58/Day16/Day16%2010%20npm%20start.png)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/adafcfbf1c8012d9e10df93341e38e828adc2d58/Day16/Day16%2011.png)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/adafcfbf1c8012d9e10df93341e38e828adc2d58/Day16/Day16%2012.png)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/adafcfbf1c8012d9e10df93341e38e828adc2d58/Day16/Day16%2013%20Edit%20inbound%20rules.png)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/adafcfbf1c8012d9e10df93341e38e828adc2d58/Day16/Day16%2013%20Edit%20inbound%20rules.png)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/adafcfbf1c8012d9e10df93341e38e828adc2d58/Day16/Day16%2014%20Add%20rules.png)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/adafcfbf1c8012d9e10df93341e38e828adc2d58/Day16/Day16%2015.png)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/adafcfbf1c8012d9e10df93341e38e828adc2d58/Day16/Day16%2016%20nodejs%20app%20is%20running.png)
 
 ---
-
