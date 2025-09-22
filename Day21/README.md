@@ -144,18 +144,18 @@ This repository contains my notes and understanding of **DevOps concepts**.
 
 ### Screenshots
 
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/a6207a2dd4803b4e2fe6af4faa21cd0dde9c5db8/Day21/Day21%2001.png)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/a6207a2dd4803b4e2fe6af4faa21cd0dde9c5db8/Day21/Day21%2002.png)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/a6207a2dd4803b4e2fe6af4faa21cd0dde9c5db8/Day21/Day21%2003.png)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/a6207a2dd4803b4e2fe6af4faa21cd0dde9c5db8/Day21/Day21%2004.png)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/a6207a2dd4803b4e2fe6af4faa21cd0dde9c5db8/Day21/Day21%2005.png)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/a6207a2dd4803b4e2fe6af4faa21cd0dde9c5db8/Day21/Day21%2006.png)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/a6207a2dd4803b4e2fe6af4faa21cd0dde9c5db8/Day21/Day21%2007.png)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/a6207a2dd4803b4e2fe6af4faa21cd0dde9c5db8/Day21/Day21%2008.png)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/a6207a2dd4803b4e2fe6af4faa21cd0dde9c5db8/Day21/Day21%2009.png)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/a6207a2dd4803b4e2fe6af4faa21cd0dde9c5db8/Day21/Day21%2010.png)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/a6207a2dd4803b4e2fe6af4faa21cd0dde9c5db8/Day21/Day21%2011.png)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/a6207a2dd4803b4e2fe6af4faa21cd0dde9c5db8/Day21/Day21%2012.png)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/a6207a2dd4803b4e2fe6af4faa21cd0dde9c5db8/Day21/Day21%2013.png)
 
 ---
