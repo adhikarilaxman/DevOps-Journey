@@ -1,5 +1,3 @@
-Here’s your **Day 23 notes** cleaned up with only grammar and formatting corrections (no changes to meaning):
-
 ---
 
 # DevOps – My Learning Journey
