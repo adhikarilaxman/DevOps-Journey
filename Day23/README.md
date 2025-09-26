@@ -62,15 +62,14 @@ ps -ef | grep jenkins
 
 Screenshots
 
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/13338b08a896d6552b62868dba74b2793af1aad0/Day23/Day23%2001.jpg)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/13338b08a896d6552b62868dba74b2793af1aad0/Day23/Day23%2002.jpg)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/13338b08a896d6552b62868dba74b2793af1aad0/Day23/Day23%2003.jpg)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/13338b08a896d6552b62868dba74b2793af1aad0/Day23/Day23%2004.jpg)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/13338b08a896d6552b62868dba74b2793af1aad0/Day23/Day23%2005.jpg)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/13338b08a896d6552b62868dba74b2793af1aad0/Day23/Day23%2006.jpg)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/13338b08a896d6552b62868dba74b2793af1aad0/Day23/Day23%2007.jpg)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/13338b08a896d6552b62868dba74b2793af1aad0/Day23/Day23%2008.jpg)
 
 ---
 
