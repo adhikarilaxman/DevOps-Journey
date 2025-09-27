@@ -33,7 +33,7 @@ When you use Jenkins in a large setup, it does not run everything on one machine
   1. Run builds (e.g., compile code, run tests).
   2. Report results back to the master.
 
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/20170f8f7ac2cea76267c608cf9058738ed6dd27/Day24/Jenkins%20master%20to%20jenkins%20worker%20node.png)
 
 ---
 
@@ -65,7 +65,7 @@ When you use Jenkins in a large setup, it does not run everything on one machine
 
 * The container is destroyed, providing a clean environment for the next job.
 
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/20170f8f7ac2cea76267c608cf9058738ed6dd27/Day24/Jenkins%20master%20to%20Docker%20containers.png)
 
 ---
 
@@ -167,8 +167,13 @@ pipeline {
 
 ### Screenshots
 
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/20170f8f7ac2cea76267c608cf9058738ed6dd27/Day24/Day24%2001.jpg)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/20170f8f7ac2cea76267c608cf9058738ed6dd27/Day24/Day24%2002.jpg)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/20170f8f7ac2cea76267c608cf9058738ed6dd27/Day24/Day24%2003.jpg)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/20170f8f7ac2cea76267c608cf9058738ed6dd27/Day24/Day24%2004.jpg)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/20170f8f7ac2cea76267c608cf9058738ed6dd27/Day24/Day24%2005.jpg)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/20170f8f7ac2cea76267c608cf9058738ed6dd27/Day24/Day24%2006.jpg)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/20170f8f7ac2cea76267c608cf9058738ed6dd27/Day24/Day24%2007.jpg)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/20170f8f7ac2cea76267c608cf9058738ed6dd27/Day24/Day24%2008.jpg)
+
+---
