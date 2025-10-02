@@ -52,20 +52,22 @@ When you run a Docker Image → it becomes a **Docker Container**.
 
 ### Screenshots
 
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/0f93133468989fd7808359d336248ff2ba70e8ae/Day29/Day29%2001.jpg)
 
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/0f93133468989fd7808359d336248ff2ba70e8ae/Day29/Day29%2002.jpg)
 
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/0f93133468989fd7808359d336248ff2ba70e8ae/Day29/Day29%2003.jpg)
 
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/0f93133468989fd7808359d336248ff2ba70e8ae/Day29/Day29%2004.jpg)
 
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/0f93133468989fd7808359d336248ff2ba70e8ae/Day29/Day29%2005.jpg)
 
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/0f93133468989fd7808359d336248ff2ba70e8ae/Day29/Day29%2006.jpg)
 
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/0f93133468989fd7808359d336248ff2ba70e8ae/Day29/Day29%2007.jpg)
 
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/0f93133468989fd7808359d336248ff2ba70e8ae/Day29/Day29%2008.jpg)
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/0f93133468989fd7808359d336248ff2ba70e8ae/Day29/Day29%2009.jpg)
 
 ---
