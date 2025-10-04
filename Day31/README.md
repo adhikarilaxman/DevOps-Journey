@@ -53,18 +53,20 @@ They don’t have a shell or package manager — only the runtime environment (e
 
 ### Screenshot of Implementation
 
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/7e4774bfd53777ac21770cdc052eeb91752c5dc5/Day31/Day31%2001.jpg)
 
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/7e4774bfd53777ac21770cdc052eeb91752c5dc5/Day31/Day31%2002.jpg)
 
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/fd6cba1d380e3def2350c0d378f2b5bd1565dbbd/Day31/Day31%20Without%20Multistage.jpg)
 
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/fd6cba1d380e3def2350c0d378f2b5bd1565dbbd/Day31/Day31%2004.jpg)
 
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/fd6cba1d380e3def2350c0d378f2b5bd1565dbbd/Day31/Day31%2005.jpg)
 
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/fd6cba1d380e3def2350c0d378f2b5bd1565dbbd/Day31/Day31%2003%20With%20Multistage.jpg)
 
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/fd6cba1d380e3def2350c0d378f2b5bd1565dbbd/Day31/Day31%2006.jpg)
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/fd6cba1d380e3def2350c0d378f2b5bd1565dbbd/Day31/Day31%2007.jpg)
 
 ---
