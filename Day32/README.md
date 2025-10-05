@@ -47,24 +47,24 @@ Bind Mounts → flexible, great for development
 
 ### Screenshot of Implementation
 
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/8833f486a903039501c10009c118e55a8070218c/Day32/Day32%2001.jpg)
 
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/8833f486a903039501c10009c118e55a8070218c/Day32/Day32%2002.jpg)
 
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/8833f486a903039501c10009c118e55a8070218c/Day32/Day32%2003.jpg)
 
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/8833f486a903039501c10009c118e55a8070218c/Day32/Day32%2004.jpg)
 
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/8833f486a903039501c10009c118e55a8070218c/Day32/Day32%2005.jpg)
 
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/8833f486a903039501c10009c118e55a8070218c/Day32/Day32%2006.jpg)
 
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/8833f486a903039501c10009c118e55a8070218c/Day32/Day32%2007.jpg)
 
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/8833f486a903039501c10009c118e55a8070218c/Day32/Day32%2008.jpg)
 
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/8833f486a903039501c10009c118e55a8070218c/Day32/Day32%2009.jpg)
 
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/8833f486a903039501c10009c118e55a8070218c/Day32/Day32%2010.jpg)
 
 ---
