@@ -47,20 +47,22 @@ How does Docker Networking Work?
 
 **Screenshots of Implementation**
 
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/d153adc668ef7532d1b77ae9efd2b7af75d31922/Day33/Day33%2001.jpg)
 
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/d153adc668ef7532d1b77ae9efd2b7af75d31922/Day33/Day33%2002%20Login%20to%20the%20container.jpg)
 
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/d153adc668ef7532d1b77ae9efd2b7af75d31922/Day33/Day33%2003%20Installing%20Ping.jpg)
 
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/d153adc668ef7532d1b77ae9efd2b7af75d31922/Day33/Day33%2004.jpg)
 
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/d153adc668ef7532d1b77ae9efd2b7af75d31922/Day33/Day33%2005.jpg)
 
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/d153adc668ef7532d1b77ae9efd2b7af75d31922/Day33/Day33%2006.jpg)
 
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/d153adc668ef7532d1b77ae9efd2b7af75d31922/Day33/Day33%2007.jpg)
 
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/d153adc668ef7532d1b77ae9efd2b7af75d31922/Day33/Day33%2008.jpg)
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/d153adc668ef7532d1b77ae9efd2b7af75d31922/Day33/Day33%2009.jpg)
 
 ---
