@@ -17,7 +17,7 @@ This repository contains my notes and understanding of **DevOps concepts**.
 Instead of running multiple `docker run` commands manually, Docker Compose lets you describe your entire application (services, networks, and volumes) in **one YAML file** (usually named `docker-compose.yml`) and start everything with a **single command**.
 
 
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/6666e7acb04212c070de5ec96c6aaa730a766ded/Day35/Day%2035%2001.png)
 
 ---
 
