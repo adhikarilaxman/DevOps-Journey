@@ -11,7 +11,7 @@ This repository contains my notes and understanding of **DevOps concepts**.
 ### Docker Interview Questions with Answers
 
 1. **What is Docker?**
-2. 
+ 
    --> Docker is an open-source containerization platform. It enables developers to package applications and their dependencies into containers, ensuring consistency across different environments.
 
 ---
