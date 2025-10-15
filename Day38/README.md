@@ -30,7 +30,7 @@ Imagine you have a web app like Amazon:
 
 Kubernetes runs each part in separate Pods across multiple Worker Nodes, while the Control Plane keeps everything in sync.
 
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/144bb5f55ab68f69caac7d3b2923d8729d898146/Day38/Day38%2001%20Architecture%20of%20Kubernetes.png)
 
 ---
 
