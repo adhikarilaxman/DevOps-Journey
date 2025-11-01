@@ -51,6 +51,8 @@ This repository contains my notes and understanding of **DevOps concepts**.
 
 ### **Screenshot of Implementation**
 
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/1c14b35b64e9754b5cd05b5497d2b43de729f63d/Day40/Day40%2001%20Installation%20Of%20Kubectl.jpg)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/1c14b35b64e9754b5cd05b5497d2b43de729f63d/Day40/Day40%2002%20Installation%20Of%20Minikube.jpg)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/1c14b35b64e9754b5cd05b5497d2b43de729f63d/Day40/Day40%2003.jpg)
 
 ---
