@@ -46,10 +46,26 @@ This repository contains my notes and understanding of **DevOps concepts**.
 
 ### **Screenshot of Implementation**
 
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/3b5aabd3e6e6126088b694f8339f52d2f1f974c7/Day41/Day41%2001.jpg)
 
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/3b5aabd3e6e6126088b694f8339f52d2f1f974c7/Day41/Day41%2002.jpg)
 
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/3b5aabd3e6e6126088b694f8339f52d2f1f974c7/Day41/Day41%2003.jpg)
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/3b5aabd3e6e6126088b694f8339f52d2f1f974c7/Day41/Day41%2004.jpg)
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/3b5aabd3e6e6126088b694f8339f52d2f1f974c7/Day41/Day41%2005.jpg)
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/3b5aabd3e6e6126088b694f8339f52d2f1f974c7/Day41/Day41%2006.jpg)
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/3b5aabd3e6e6126088b694f8339f52d2f1f974c7/Day41/Day41%2007%20deplyment.yml%20.jpg)
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/3b5aabd3e6e6126088b694f8339f52d2f1f974c7/Day41/Day41%2008.jpg)
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/3b5aabd3e6e6126088b694f8339f52d2f1f974c7/Day41/Day41%2009.jpg)
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/3b5aabd3e6e6126088b694f8339f52d2f1f974c7/Day41/Day41%2010.jpg)
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/3b5aabd3e6e6126088b694f8339f52d2f1f974c7/Day41/Day41%2011.jpg)
 
 ---
