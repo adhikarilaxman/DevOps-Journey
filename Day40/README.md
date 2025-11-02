@@ -54,5 +54,13 @@ This repository contains my notes and understanding of **DevOps concepts**.
 ![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/1c14b35b64e9754b5cd05b5497d2b43de729f63d/Day40/Day40%2001%20Installation%20Of%20Kubectl.jpg)
 ![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/1c14b35b64e9754b5cd05b5497d2b43de729f63d/Day40/Day40%2002%20Installation%20Of%20Minikube.jpg)
 ![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/1c14b35b64e9754b5cd05b5497d2b43de729f63d/Day40/Day40%2003.jpg)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/24852b1e6eb57b7a757a411bf8e28f6e38ccdca9/Day40/Day40%2004.jpg)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/24852b1e6eb57b7a757a411bf8e28f6e38ccdca9/Day40/Day40%2005.jpg)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/24852b1e6eb57b7a757a411bf8e28f6e38ccdca9/Day40/Day40%2006.jpg)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/24852b1e6eb57b7a757a411bf8e28f6e38ccdca9/Day40/Day40%2007.jpg)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/24852b1e6eb57b7a757a411bf8e28f6e38ccdca9/Day40/Day40%2008.jpg)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/24852b1e6eb57b7a757a411bf8e28f6e38ccdca9/Day40/Day40%2009.jpg)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/24852b1e6eb57b7a757a411bf8e28f6e38ccdca9/Day40/Day40%2010.jpg)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/24852b1e6eb57b7a757a411bf8e28f6e38ccdca9/Day40/Day40%2011.jpg)
 
 ---
