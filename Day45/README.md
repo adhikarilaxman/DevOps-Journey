@@ -98,9 +98,15 @@ This repository contains my notes and understanding of **DevOps concepts**.
 
 ### **Screenshots**
 
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/327315911b4a91f93dfffabc46a1d6d266a482e1/Day45/Day45%2001.png)
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/327315911b4a91f93dfffabc46a1d6d266a482e1/Day45/Day45%2002.png)
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/327315911b4a91f93dfffabc46a1d6d266a482e1/Day45/Day45%2003.png)
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/327315911b4a91f93dfffabc46a1d6d266a482e1/Day45/Day45%2004.png)
+
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/327315911b4a91f93dfffabc46a1d6d266a482e1/Day45/Day45%2005.png)
 
 ---
