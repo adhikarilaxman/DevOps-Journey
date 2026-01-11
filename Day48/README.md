@@ -49,3 +49,17 @@ A **Secret** is a Kubernetes object used to store **sensitive data securely**.
 * Allows secure configuration management
 
 ---
+
+## **Screenshots**
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/66df9415aa63b43239ce7de7c19a636f73d69574/Day48/Day48%2001.png)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/66df9415aa63b43239ce7de7c19a636f73d69574/Day48/Day48%2002.png) 
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/66df9415aa63b43239ce7de7c19a636f73d69574/Day48/Day48%2003.png)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/66df9415aa63b43239ce7de7c19a636f73d69574/Day48/Day48%2004.png) 
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/66df9415aa63b43239ce7de7c19a636f73d69574/Day48/Day48%2005.png)
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/66df9415aa63b43239ce7de7c19a636f73d69574/Day48/Day48%2006.png) 
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/66df9415aa63b43239ce7de7c19a636f73d69574/Day48/Day49%2007.png) 
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/66df9415aa63b43239ce7de7c19a636f73d69574/Day48/Day49%2008.png) 
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/66df9415aa63b43239ce7de7c19a636f73d69574/Day48/Day50%2009.png)
+
+---
