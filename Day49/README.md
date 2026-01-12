@@ -157,24 +157,42 @@ kubectl expose service grafana \
 
 ## **Screenshot of Implementation**
 
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/5c5e6337f9a27e3036cc9f4ca3a05054f8e954c3/Day49/Day49%2001.png)
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/5c5e6337f9a27e3036cc9f4ca3a05054f8e954c3/Day49/Day49%2002.png)
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/5c5e6337f9a27e3036cc9f4ca3a05054f8e954c3/Day49/Day49%2003.png)
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/5c5e6337f9a27e3036cc9f4ca3a05054f8e954c3/Day49/Day49%2004.png)
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/5c5e6337f9a27e3036cc9f4ca3a05054f8e954c3/Day49/Day49%2005.png)
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/5c5e6337f9a27e3036cc9f4ca3a05054f8e954c3/Day49/Day49%2006.png)
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/5c5e6337f9a27e3036cc9f4ca3a05054f8e954c3/Day49/Day49%2007.png)
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/5c5e6337f9a27e3036cc9f4ca3a05054f8e954c3/Day49/Day49%2008.png)
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/5c5e6337f9a27e3036cc9f4ca3a05054f8e954c3/Day49/Day49%2009.png)
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/5c5e6337f9a27e3036cc9f4ca3a05054f8e954c3/Day49/Day49%2010.png)
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/5c5e6337f9a27e3036cc9f4ca3a05054f8e954c3/Day49/Day49%2011.png)
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/5c5e6337f9a27e3036cc9f4ca3a05054f8e954c3/Day49/Day49%2012%20Grafana%20Password.png)
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/5c5e6337f9a27e3036cc9f4ca3a05054f8e954c3/Day49/Day49%2013.png)
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/5c5e6337f9a27e3036cc9f4ca3a05054f8e954c3/Day49/Day49%2014.png)
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/5c5e6337f9a27e3036cc9f4ca3a05054f8e954c3/Day49/Day50%2015.png)
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/5c5e6337f9a27e3036cc9f4ca3a05054f8e954c3/Day49/Day50%2016.png)
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/5c5e6337f9a27e3036cc9f4ca3a05054f8e954c3/Day49/Day50%2017.png)
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/5c5e6337f9a27e3036cc9f4ca3a05054f8e954c3/Day49/Day50%2018.png)
+
+![image alt](https://github.com/adhikarilaxman/DevOps-Journey/blob/5c5e6337f9a27e3036cc9f4ca3a05054f8e954c3/Day49/Day50%2019.png)
 
 ---
